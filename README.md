@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-## <br><br>🔭 I'm currently working on **AI-powered Full-Stack applications, Machine Learning projects, and scalable web solutions**<br><br>👯 I'm looking to collaborate on **Open Source, AI/ML, Full-Stack Development, and innovative SaaS products**<br><br>🤝 I'm looking for help with **Agentic AI, MLOps, Large Language Models (LLMs), and Cloud Deployment**<br><br>🌱 I'm currently learning **Machine Learning, Deep Learning, Generative AI, RAG, AI Agents, Docker, and AWS**<br><br>💬 Ask me about **Python, JavaScript, React, Next.js, FastAPI, Machine Learning, Web Development, or Career Growth**<br><br>⚡ Fun fact: **I love turning ideas into real products. When I'm not coding, you'll find me behind a camera capturing moments or watching great movies.**
+##🔭 I'm currently working on **AI-powered Full-Stack applications, Machine Learning projects, and scalable web solutions**<br><br>👯 I'm looking to collaborate on **Open Source, AI/ML, Full-Stack Development, and innovative SaaS products**<br><br>🤝 I'm looking for help with **Agentic AI, MLOps, Large Language Models (LLMs), and Cloud Deployment**<br><br>🌱 I'm currently learning **Machine Learning, Deep Learning, Generative AI, RAG, AI Agents, Docker, and AWS**<br><br>💬 Ask me about **Python, JavaScript, React, Next.js, FastAPI, Machine Learning, Web Development, or Career Growth**<br><br>⚡ Fun fact: **I love turning ideas into real products. When I'm not coding, you'll find me behind a camera capturing moments or watching great movies.**
 
 
 ## 🌐 Socials:
